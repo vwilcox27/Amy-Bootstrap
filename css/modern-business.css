@@ -1,3 +1,4 @@
+
 /* 
 Custom CSS for...
 'Small Cell Cervical Cancer' HTML Theme by Start Bootstrap
@@ -57,6 +58,7 @@ body {
 .active,
 .carousel-inner {
   height: 100%;
+  img: center;
 }
 
 .fill {
