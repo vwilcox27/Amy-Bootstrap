@@ -35,7 +35,7 @@
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="About SCCC.html">About SCCC</a></li>
-            <li><a href="services.html">Services</a></li>
+            <li><a href="fallenangels.html">Our Fallen Angels</a></li>
             <li class="active"><a href="contact.php">Contact</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <b class="caret"></b></a>
