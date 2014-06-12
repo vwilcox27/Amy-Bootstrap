@@ -277,10 +277,11 @@ html {
 }
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.428571429;
-  color: #333;
+  color: #ffffff;
   background-color: #fff;
+  text-align: center;
 }
 input,
 button,
@@ -308,7 +309,8 @@ figure {
   margin: 0;
 }
 img {
-  vertical-align: middle;
+    margin-left: auto;
+  margin-right: auto;
 }
 .img-responsive {
   display: block;
@@ -3831,8 +3833,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 40px;
+    padding-bottom: 50px;
   }
   .navbar-nav.navbar-right:last-child {
     margin-right: -15px;
@@ -4028,7 +4030,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #333;
 }
 .navbar-inverse {
-  background-color: #70b8ff;
+  background-color: #00a6d6;
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
@@ -4043,7 +4045,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #999;
 }
 .navbar-inverse .navbar-nav > li > a {
-  color: #740c16;
+  color: #ffffff;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
@@ -5592,6 +5594,8 @@ button.close {
     margin-top: -15px;
     margin-left: -15px;
     font-size: 30px;
+    color: #b76323;
+    position: bottom;
   }
   .carousel-caption {
     right: 20%;
